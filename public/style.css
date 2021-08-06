@@ -10,7 +10,7 @@
     height: 100vh;
 
     background-image: url("./images/image-header.jpg");
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
 
 }
