@@ -9,7 +9,7 @@
     width: 100%;
     height: 100vh;
 
-    background-image: url("/img/projects-img/sunnyside/image-header.jpg");
+    background-image: url("./images/image-header.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -186,7 +186,7 @@
 .item2 {
    width: 670px;
    height: 550px;
-   background-image: url("/img/projects-img/sunnyside/image-stand-out.jpg");
+   background-image: url("./images/image-stand-out.jpg");
    background-size: cover;
    background-repeat: no-repeat;
 }
@@ -194,7 +194,7 @@
 .item3 {
     width: 671px;
     height: 550px;
-    background-image: url("/img/projects-img/sunnyside/image-transform.jpg");
+    background-image: url("./images/image-transform.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -202,7 +202,7 @@
 .item5 {
     width: 671px;
     height: 550px;
-    background-image: url("/img/projects-img/sunnyside/image-graphic-design.jpg");
+    background-image: url("./images/image-graphic-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -237,7 +237,7 @@
 .item6 {
     width: 672px;
     height: 550px;
-    background-image: url("/img/projects-img/sunnyside/image-photography.jpg");
+    background-image: url("./images/image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -303,7 +303,7 @@
 
 
 .client-picture-1 {
-    background-image: url(/img/projects-img/sunnyside/image-thomas.jpg);
+    background-image: url(./images/image-thomas.jpg);
     background-size: cover;
     border-radius: 50px;
     width: 100px;
@@ -312,7 +312,7 @@
 }
 
 .client-picture-2 {
-    background-image: url(/img/projects-img/sunnyside/image-emily.jpg);
+    background-image: url(./images/image-emily.jpg);
     background-size: cover;
     border-radius: 50px;
     width: 100px;
@@ -321,7 +321,7 @@
 }
 
 .client-picture-3 {
-    background-image: url(/img/projects-img/sunnyside/image-jennie.jpg);
+    background-image: url(./images/image-jennie.jpg);
     background-size: cover;
     border-radius: 50px;
     width: 100px;
@@ -422,7 +422,7 @@
    
     width: 355px;
     height: 450px;
-    background-image: url(/img/projects-img/sunnyside/image-gallery-milkbottles.jpg);
+    background-image: url(./images/image-gallery-milkbottles.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 
@@ -434,7 +434,7 @@
     
     width: 355px;
     height: 450px;
-    background-image: url(/img/projects-img/sunnyside/image-gallery-orange.jpg);
+    background-image: url(./images/image-gallery-orange.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 
@@ -446,7 +446,7 @@
     
     width: 355px;
     height: 450px;
-    background-image: url(/img/projects-img/sunnyside/image-gallery-cone.jpg);
+    background-image: url(./images/image-gallery-cone.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 
@@ -458,7 +458,7 @@
     
     width: 355px;
     height: 450px;
-    background-image: url(/img/projects-img/sunnyside/image-gallery-sugarcubes.jpg);
+    background-image: url(./images/image-gallery-sugarcubes.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 
